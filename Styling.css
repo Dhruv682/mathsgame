@@ -111,12 +111,12 @@ html{
     margin-right: 0;
 }
 
-.box:hover, #startreset:hover{
+/* .box:hover, #startreset:hover{
     background-color: #9c89f6;
     color: white;
     box-shadow: 0 4px 0 0 #7A5CC4;
     -moz-box-shadow: 0 4px 0 0 #7A5CC4;
-    -webkit-box-shadow: 0 4px 0 0 #7A5CC4;
+    -webkit-box-shadow: 0 4px 0 0 #7A5CC4; */
 }
 
 .box:active{
